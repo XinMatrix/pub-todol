@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 整个 IDE 配置目录不进仓库
+/.idea
+
+# 编译产物（APK 发布到 GitHub Release，不进仓库）
+app/release/
+app/build/
+app/debug/

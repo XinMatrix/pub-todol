@@ -1,0 +1,11 @@
+<paths>
+    <files-path
+        name="my_image"
+        path="multiMedia/image/" />
+    <files-path
+        name="my_video"
+        path="multiMedia/video/" />
+    <files-path
+        name="my_audio"
+        path="multiMedia/audio/" />
+</paths>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TODOL</string>
+    <!--    <string name="app_name">TODOL内测版</string>-->
+    <!--    <string name="app_name">TODOL发行版</string>-->
+    <string name="tryAgain">悬浮窗权限被拒绝请手动开启\n\n显示在其他应用上层 -> 允许\n\n(点击打开设置)</string>
+    <string name="help">HELP</string>
+    <string name="introduce">\t\t\t\tTODOL是一款悬浮窗记事软件，特点是高效，快捷，安全，小巧，适用于所有需要经常记录想法、待办、事件的人</string>
+    <string name="useMethod">\t\t\t\tTODOL的特殊操作如下\n1.快速点击绿色区域关闭输入页\n2.长按绿色区域切换长短期笔记\n3.拖动绿色区域移动输入视图\n4.快速双击输入框复制文本内容\n5.长按输入框进入其子集\n6.长按两秒关闭圆形悬浮窗</string>
+    <string name="authIntroduce">\t\t\t\tTODOL是一个西安大学生在大二(2023年5月)完成的，他想节约记录时间，帮助大学生处理安排各类活动事项，培养处理事情的能力与思考的习惯，毫不夸张地说，他没有一天不用TODOL且平均每天记录数十条笔记</string>
+    <string name="callback">\t\t\t\t程序崩溃时错误信息直接复制到本机，请提交反馈时粘贴\nTODOL需要更多合理的意见，欢迎在应用商城评论留言</string>
+    <string name="summarize">\t\t\t\t如果TODOL给您提供了难以置信的帮助，我会很高兴，因为您的人生会变得更幸福，如果它没能帮您太多，也不要灰心，继续用下去，好运马上就会眷顾您</string>
+    <string name="donate">\t\t\t\t如果TODOL真真切切地帮到了您，欢迎打赏让世界多一份温暖</string>
+    <string name="myPhone">联系我\n\n15229220972\n\na15229220972@163.com</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- 浮窗背景颜色 -->
+    <solid android:color="#B2BF3B" />
+
+    <!-- 浮窗边框 -->
+    <stroke
+        android:width="5dp"
+        android:color="#FFFFFF" />
+
+    <!-- 浮窗大小 -->
+    <size
+        android:width="80dp"
+        android:height="80dp" />
+</shape>

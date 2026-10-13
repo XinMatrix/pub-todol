@@ -1,0 +1,38 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:alpha="0.9"
+    app:cardBackgroundColor="#FFFFFF"
+    app:cardCornerRadius="20dp">
+
+    <LinearLayout
+        android:layout_width="260dp"
+        android:layout_height="435dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/placePickerET"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_margin="40dp"
+            android:layout_weight="1"
+            android:autofillHints=""
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:hint="输入地点 (可空)"
+            android:inputType="textMultiLine"
+            android:maxLength="50"
+            android:textSize="25sp" />
+
+        <LinearLayout
+            android:id="@+id/placePickerTouchLL"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/myGreen"
+            android:orientation="horizontal" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

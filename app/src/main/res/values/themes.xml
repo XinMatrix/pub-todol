@@ -1,0 +1,112 @@
+<resources>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Dialog">
+        <!-- 可根据需要添加其他样式属性 -->
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    //红色
+
+    <style name="Theme.TODOL_RED" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#BF3B3B</item>
+        //辅色
+        <item name="mySecondColor">#6DF1BCBC</item>
+        //背景色
+        <item name="myBackgroundColor">#4E1919</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //橙色
+
+    <style name="Theme.TODOL_ORANGE" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#BF933B</item>
+        //辅色
+        <item name="mySecondColor">#6DF1E2BC</item>
+        //背景色
+        <item name="myBackgroundColor">#4E3C19</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //黄色
+
+    <style name="Theme.TODOL_YELLOW" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#B2BF3B</item>
+        //辅色
+        <item name="mySecondColor">#6DF1F0BC</item>
+        //背景色
+        <item name="myBackgroundColor">#4E4719</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //绿色
+
+    <style name="Theme.TODOL_GREEN" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#3BBF42</item>
+        //辅色
+        <item name="mySecondColor">#6DBCF1C3</item>
+        //背景色
+        <item name="myBackgroundColor">#194E1C</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //青色
+
+    <style name="Theme.TODOL_CYAN" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#3BBFBF</item>
+        //辅色
+        <item name="mySecondColor">#6DBCF1E6</item>
+        //背景色
+        <item name="myBackgroundColor">#194E42</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //蓝色
+
+    <style name="Theme.TODOL_BLUE" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#3B51BF</item>
+        //辅色
+        <item name="mySecondColor">#6DBCC7F1</item>
+        //背景色
+        <item name="myBackgroundColor">#19224E</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //紫色
+
+    <style name="Theme.TODOL_PURPLE" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#973BBF</item>
+        //辅色
+        <item name="mySecondColor">#6DE6BCF1</item>
+        //背景色
+        <item name="myBackgroundColor">#49194E</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+    //深色
+
+    <style name="Theme.TODOL_DARK" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        //主色
+        <item name="myFirstColor">#2B2B2B</item>
+        //辅色
+        <item name="mySecondColor">#6D9E9E9E</item>
+        //背景色
+        <item name="myBackgroundColor">#434343</item>
+        //文本色
+        <item name="myTextColor">#FFFFFF</item>
+    </style>
+
+</resources>
